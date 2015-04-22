@@ -1,6 +1,6 @@
 /**
  * Eric Olson
- * https://github.com/zpalffy/snippet-markup-jquery * 
+ * https://github.com/zpalffy/snippet-highlight-jquery * 
  * License: MIT - http://opensource.org/licenses/MIT
  */
 (function($) {
